@@ -1,12 +1,8 @@
-# Ultimate ECP5 Board
+# Intro
 
-WIP - Rev 1.0 prototypes currently under test...
+This project is my hobbyist attempt to update the TrellisBoard to a production-level state in 2026. 
 
-![Photo of PCB rev 1.0](hardware/ecp5_mainboard/photo/rev10_top.jpg)
-![Render of PCB rev 1.0](hardware/ecp5_mainboard/render/ecp5_mainboard.png)
-
-
-## Key Features
+## Key Features 
  - Largest ECP5; LFE5UM5G-85F
  - PCIe 2.0 x2 card edge connector on two SERDES channels
  - Remaining two SERDES channels on M.2 E-key connector
