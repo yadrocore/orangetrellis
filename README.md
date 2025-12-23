@@ -2,7 +2,7 @@
 
 This project is my hobbyist attempt to update the TrellisBoard to a production-level state in 2026. 
 
-## About me
+## About Me
 
  - I barely know anything about PCB prototyping, but I think the TrellisBoard project is very cool and useful, so I want to revive it. I am currently employed by an aerospace company as a control engineer, so I will be working on this project in my free time only. No deadlines, just fun. 
  - Using mostly luck and LiteX, I managed to get a fully working Linux rv64 system running on my ULX3S board with a full RocketChip core. However, due to the RAM limitations of that board, I couldn’t do anything particularly interesting with it. That’s why I see this project as a good way to waste my free time.
